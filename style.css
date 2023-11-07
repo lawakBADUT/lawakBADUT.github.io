@@ -83,10 +83,6 @@ body{
   font-weight: bold;
 }
 
-.nav-link {
-  pointer-events: auto;
-}
-
 .language-switch {
   padding-left: 20px;
   margin-right: 20px;
