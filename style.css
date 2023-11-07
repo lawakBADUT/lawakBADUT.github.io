@@ -148,6 +148,7 @@ button.try{
   color: #93B1A6; 
   transition: background-color 0.3s, color 0.3s; 
   justify-content: center; 
+  border-radius: 5%;
 }
 
 .explorebutton:hover {
