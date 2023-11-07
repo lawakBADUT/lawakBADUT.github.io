@@ -3,9 +3,6 @@
     overflow-x: hidden;
   }
 
-  #navbar{
-    margin-right: 1rem;
-  }
   #trynavbar {
     display: none;
   }
@@ -13,11 +10,13 @@
   #Home{
     background-image: url('jumbotronmobile.jpg');
     background-size: 100%;
+    margin-right: -1rem;
   }
 
   #jt{
     margin-top: 3rem;
     padding-right: 0%;
+    margin-right: -1rem;
   }
 
   #texthead1{
@@ -57,6 +56,13 @@
 
   #about{
     padding: 0;
+    margin-right: -1rem;
+  }
+
+  #our-team,
+  #footer,
+  #abstrak{
+    margin-right: -1rem;
   }
 }
 
