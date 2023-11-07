@@ -1,7 +1,6 @@
 @media (max-width: 768px) {
   body{
-    margin-right: 0%;
-    padding-right: 0%;
+    overflow-x: hidden;
   }
   #trynavbar {
     display: none;
