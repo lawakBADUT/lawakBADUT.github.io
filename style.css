@@ -1,4 +1,8 @@
 @media (max-width: 768px) {
+  body{
+    margin-right: 0%;
+    padding-right: 0%;
+  }
   #trynavbar {
     display: none;
   }
@@ -9,7 +13,7 @@
   }
 
   #jt{
-    margin-top: 5rem;
+    margin-top: 3rem;
     padding-right: 0%;
   }
 
