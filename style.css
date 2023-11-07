@@ -63,27 +63,10 @@
     padding: 0;
   }
 
-  #navbar{
-    margin-right: -2%;
-  }
-
-  #about-us{
-    padding-right: -2rem;
-    padding-top: 5rem;
-  }
-
-  #abstrak{
-    padding-right: -2rem;
-    padding-top: 5rem;
-  }
-
-  #our-team{
-    padding-right: -2rem;
-    padding-top: 5rem;
-  }
-
+  #about-us,
+  #abstrak,
+  #our-team,
   #footer{
-    padding-right: -2rem;
     padding-top: 5rem;
   }
 }
