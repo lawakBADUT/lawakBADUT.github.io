@@ -124,15 +124,15 @@ document.addEventListener("DOMContentLoaded", function() {
       } else if (type === 'kamarmandi') {
         updateKamarMandi("-");
       } else if (type === 'tipekloset') {
-        updateKamarMandi("-");
+        updateTipeKloset("-");
       } else if (type === 'pendinginruangan') {
-        updateKamarMandi("-");
+        updatePendinginRuangan("-");
       } else if (type === 'wifi') {
-        updateKamarMandi("-");
+        updateWifi("-");
       } else if (type === 'kasur') {
-        updateKamarMandi("-");
+        updateKasur("-");
       } else if (type === 'akseskost') {
-        updateKamarMandi("-");
+        updateAksesKost("-");
       } 
     } else {
       button.classList.add("active");
