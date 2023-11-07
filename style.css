@@ -1,6 +1,6 @@
 @media (max-width: 768px) {
   body{
-    margin-right: -1rem;
+    padding-right: -1rem;
   }
   #trynavbar {
     display: none;
