@@ -60,30 +60,28 @@
   }
 
   #navbar{
-    padding-right: -2rem;
-    padding-top: 3rem;
-
+    margin: -2rem;
   }
+
   #about-us{
     padding-right: -2rem;
-    padding-top: 3rem;
+    padding-top: 5rem;
   }
 
   #abstrak{
     padding-right: -2rem;
-    padding-top: 3rem;
+    padding-top: 5rem;
   }
 
   #our-team{
     padding-right: -2rem;
-    padding-top: 3rem;
+    padding-top: 5rem;
   }
 
   #footer{
     padding-right: -2rem;
-    padding-top: 3rem;
+    padding-top: 5rem;
   }
-  
 }
 
 body{
