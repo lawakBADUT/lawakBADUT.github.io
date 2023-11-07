@@ -1,4 +1,9 @@
 @media (max-width: 768px) {
+  body{
+    overflow-y: scroll;
+    overflow-x: hidden;
+  } 
+
   #trynavbar {
     display: none;
   }
@@ -11,8 +16,7 @@
     background-image: url('jumbotronmobile.jpg');
     background-size: 100%;  
     padding-right: -2rem;
-    padding-top: 3rem;
-    
+    padding-top: 3rem; 
   }
 
   #jt{
