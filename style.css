@@ -9,7 +9,10 @@
 
   #Home{
     background-image: url('jumbotronmobile.jpg');
-    background-size: 100%;
+    background-size: 100%;  
+    padding-right: -2rem;
+    padding-top: 3rem;
+    
   }
 
   #jt{
@@ -56,15 +59,29 @@
     padding: 0;
   }
 
-  #navbar,
-  #Home,
-  #about-us,
-  #abstrak,
-  #our-team,
-  #footer{
-    width: 100%;
+  #navbar{
     padding-right: -2rem;
-    padding-top: 10%;
+    padding-top: 3rem;
+
+  }
+  #about-us{
+    padding-right: -2rem;
+    padding-top: 3rem;
+  }
+
+  #abstrak{
+    padding-right: -2rem;
+    padding-top: 3rem;
+  }
+
+  #our-team{
+    padding-right: -2rem;
+    padding-top: 3rem;
+  }
+
+  #footer{
+    padding-right: -2rem;
+    padding-top: 3rem;
   }
   
 }
