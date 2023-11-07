@@ -1,6 +1,6 @@
 @media (max-width: 768px) {
   body{
-    padding-right: -1rem;
+    width: 100%;
   }
   #trynavbar {
     display: none;
@@ -8,6 +8,10 @@
 
   #nav-link{
     pointer-events: all;
+  }
+
+  #navbar{
+    width: auto;
   }
 
   #Home{
