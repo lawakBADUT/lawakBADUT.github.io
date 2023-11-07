@@ -1,17 +1,10 @@
 @media (max-width: 768px) {
-  body{
-    width: 100%;
-  }
   #trynavbar {
     display: none;
   }
 
   #nav-link{
     pointer-events: all;
-  }
-
-  #navbar
-    width: auto;
   }
 
   #Home{
@@ -62,6 +55,18 @@
   #about{
     padding: 0;
   }
+
+  #navbar,
+  #Home,
+  #about-us,
+  #abstrak,
+  #our-team,
+  #footer{
+    width: 100%;
+    padding: -2%;
+    padding-top: 8%;
+  }
+  
 }
 
 body{
