@@ -1,4 +1,7 @@
 @media (max-width: 768px) {
+  body{
+    overflow-x: hidden;
+  }
   #trynavbar {
     display: none;
   }
@@ -6,7 +9,7 @@
   #Home{
     background-image: url('jumbotronmobile.jpg');
     background-size: 100%;
-    width: max-content;
+    width: 100%;
   }
 
   #jt{
